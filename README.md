@@ -1,7 +1,7 @@
 # Gerador de README
 
 ## Descrição
-Um script simples para gerar arquivos README.md de forma auica.
+Um script simples para gerar arquivos README.md de forma automática
 
 ## Tecnologias
 Python, CLI
